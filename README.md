@@ -12,11 +12,14 @@ Usage
 **Output:** JSON
 
 
-Three Main REST operations
+Four Main REST operations
 ====================
 	
 ### Get latest News 
 #### GET `/sky/getlatest/v1.0/`
+
+### Get latest Transfer News 
+#### GET `/sky/transfer/news/v1.0/`
 
 ### Get individual Sport news 
 #### GET `/sky/getnews/< name_of_sport >/v1.0/` 
